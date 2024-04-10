@@ -11,9 +11,9 @@ This repository contains a predictive analysis project focused on forecasting fu
 
 ## Installation
 To run the project, clone the repository and install the required dependencies:
-`https://github.com/anush97/city_hosp_forecasting.git
-cd city_hosp_forecasting
-pip install -r requirements.txt`
+`https://github.com/anush97/city_hosp_forecasting.git`
+`cd city_hosp_forecasting`
+`pip install -r requirements.txt`
 
 also install power BI desktop latest version
 
